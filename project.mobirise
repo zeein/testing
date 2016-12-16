@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "zeein.github.io/kaosdistromurah",
-    "currentPage": "home.html",
+    "currentPage": "jasa-desain-gratis.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1830,7 +1830,7 @@
           "title": "REQUEST DESAIN",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Kami selaku Distributor Distro terbesar dan terpercaya insyaallah akan selalu menyediakan layanan terbaik. Kami menyediakan ruang bagi kamu yang ingin memiliki <b>Kaos Distro</b>&nbsp;spesial, baik itu desain milik kamu sendiri atau mungkin kamu me-<i>request</i>&nbsp;desain ke kami.</p><h3>CARA PEMESANAN DESAIN</h3><ul><li>Sudah menyediakan detail <b>Desain</b>&nbsp;yang ingin di pesan.</li><li>Desain yang di pesan <b>TIDAK BOLEH</b>&nbsp;mengandung unsur <b>Menghina</b>&nbsp;agama, <b>SARA</b>, <b>PORNOGRAFI</b>, dan berbagai unsur-unsur kejelekan lainnya.</li><li>Desain yang di minta akan kami review atau kami cek terlebih dahulu.</li></ul><h3>CARA PEMESANAN KAOS</h3><ul><li>Menyediakan detail kaos yang akan di pesan.</li><li>Kaos yang di pesan bisa dengan model desain sendiri.</li><li>Kaos dengan desain sendiri <b>TIDAK BOLEH</b>&nbsp;mengandung unsur <b>Menghina</b> agama, <b>SARA</b>, <b>PORNOGRAFI</b>, dan berbagai unsur-unsur kejelekan lainnya.</li><li>Kaos dengan desain sendiri akan kami review atau kami cek terlebih dahulu.</li></ul><p><br></p><h4>PERTANYAAN ?</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bantuan.html\" data-toolbar=\"-mbrBtnMove\">BANTUAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">KAOS DISTRO</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"bantuan.html\" data-toolbar=\"-mbrBtnMove\">BANTUAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Kaos-distro-premium.html\" data-toolbar=\"-mbrBtnMove\">KAOS DISTRO</a>"
         },
         {
           "_inherit": "dropdown-menu",
